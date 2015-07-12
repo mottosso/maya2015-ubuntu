@@ -12,7 +12,7 @@ Based on [mottosso/mayabase-ubuntu][1].
 #### Usage
 
 ```bash
-$ docker run -ti --rm mottosso/maya mayapy
+$ docker run -ti --rm mottosso/maya2015-ubuntu mayapy
 Python 2.7.3 (default, Aug  2 2012, 13:44:14)
 [GCC 4.1.2] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
