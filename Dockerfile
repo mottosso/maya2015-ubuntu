@@ -1,4 +1,4 @@
-FROM mottosso/mayabase
+FROM mottosso/mayabase-ubuntu
 
 MAINTAINER marcus@abstractfactory.io
 
